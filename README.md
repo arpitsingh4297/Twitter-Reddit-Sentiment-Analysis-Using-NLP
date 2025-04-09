@@ -1,7 +1,3 @@
-Here's a professional and comprehensive `README.md` file for your project **"Twitter & Reddit Sentiment Analysis Using NLP"**. This README outlines the project structure, features, technologies used, and more – optimized for GitHub visibility and impact:
-
----
-
 # 🧠 Twitter & Reddit Sentiment Analysis Using NLP
 
 ![cover](https://github.com/arpitsingh4297/twitter-reddit-nlp-sentiment-analysis/blob/main/assets/banner.png)
