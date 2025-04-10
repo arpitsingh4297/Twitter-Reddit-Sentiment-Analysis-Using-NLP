@@ -5,6 +5,10 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import re
 
+st.title("💬 Twitter & Reddit Sentiment Analyzer")
+st.subheader("Analyze user sentiment from social media posts")
+st.markdown("Upload a post or a CSV file and get quick insights 📊")
+
 # Load the model and vectorizer
 model = joblib.load("sentiment_model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
